@@ -8,10 +8,11 @@ Para utilizar esta aplicacion se puede hacer un clic en cada boton para visualiz
 
 
 Enlace a mi app 
-https://car-analysis-ey1d.onrender.com/
+https://car-analysis-1-o9uo.onrender.com/
 
 
 Commits 
 
 - Initial commit: creacion del repositorio y el archivo Readme
 - ProyectV1: Se añade el script app.py y el contenido que ejecuta la aplicacion, y agregamos el notebook EDA y el dataset vehicles_us.csv
+- Nuevo enlace: Se corrije el enlace de la grafica
